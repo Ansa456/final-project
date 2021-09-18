@@ -1,0 +1,132 @@
+body{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    
+    
+    
+
+}
+    
+
+.container{
+    margin: 0 auto;
+    width: 620px;
+    max-width:1200px ;
+}
+
+h1,
+h2,
+p{
+    margin-top: 0;
+}
+p{
+    margin-bottom: 17px;
+    margin-top: 20px;
+}
+
+.btn{
+    display: inline-block;
+    font-family: sans-serif;
+    
+    font-weight: 700;
+    padding: 10px 28px;
+    text-decoration: none;
+    margin-bottom: 26px;
+    
+    margin: 7px 3px;
+
+}
+
+header,
+section{
+    padding: 50px;
+    
+    
+}
+header{
+    background:#2E354F;
+    
+    
+}
+
+
+
+h1{
+    font-size: 36px;
+    color: #FFF;
+    margin-bottom: 0;
+    
+}
+
+h2{
+    font-size: 24px;
+    color: #EF5839;
+    
+}
+
+.section-peak{
+    background:#FFF;
+    color: black;
+    
+}
+
+.section-peak a{
+    color: #EF5839;
+}
+
+.section-peak a:hover,
+.section-peak a:focus{
+    color: #b39b34;
+}
+.bold-text{
+    font-weight: 900;
+    color: black;
+}
+.bold-content{
+    font-weight: 900;
+    color: white;
+}
+
+.section-lowest{
+    background: #2E354F;
+    color: white;
+    
+}
+
+.section-lowest a{
+    color: #EF5839;
+}
+
+.section-lowest a:hover,
+.section-lowest a:focus{
+    color: #b39b34;
+}
+
+.section-lowest .btn-primary{
+    background: #EF5839;
+    color: white;
+
+}
+.section-lowest .btn-primary:hover,
+.section-lowest .btn-primary:focus{
+    color: white;
+    background: #757272;
+}
+
+.section-lowest .btn-secondary{
+    background: white;
+    color: #2E354F;
+}
+
+.section-lowest .btn-secondary:hover,
+.section-lowest .btn-secondary:focus{
+    background: #9e9999;
+    color: #2E354F;
+}
+
+
+
+
+
